@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "premium-consultation-app",
+    "name": "Premium Consultation",
     "slug": "premium-consultation-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "premium-consultation",
+    "plugins": ["expo-router", "expo-localization", "expo-web-browser"],
+    "experiments": {
+      "typedRoutes": true
+    },
     "ios": {
       "supportsTablet": true
     },

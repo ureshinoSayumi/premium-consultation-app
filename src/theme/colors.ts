@@ -1,0 +1,20 @@
+export const colors = {
+  background: '#F3F0EA',
+  surface: '#FFFFFF',
+  ink: '#111111',
+  inkMuted: '#5C5C5C',
+  inkSoft: '#8A8A8A',
+  border: '#E6E2DA',
+  accent: '#111111',
+  danger: '#B42318',
+  dangerSoft: '#FEF3F2',
+  overlay: 'rgba(0,0,0,0.45)',
+  sheetHandle: '#D0CBC2',
+  /** Figma hero gold */
+  heroGold: '#C4A35A',
+  heroGoldDeep: '#A8863D',
+  link: '#2F6FED',
+  privacyBg: '#FBF3D8',
+  privacyBorder: '#F0E2A8',
+  photoPlaceholder: '#D9D9D9',
+} as const;

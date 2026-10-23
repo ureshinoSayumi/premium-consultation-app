@@ -1,0 +1,46 @@
+{
+  "home": {
+    "title": "Premium Consultation",
+    "subtitle": "Entry point for the specialist consultation experience.",
+    "openConsultation": "Open Premium Consultation",
+    "featureFlag": "Feature enabled",
+    "featureFlagHint": "Turn off to demo the Coming soon dialog.",
+    "language": "Language",
+    "listMode": "Specialist list mode",
+    "listModePlain": "Plain list",
+    "listModeInfinite": "Infinite scroll",
+    "forceError": "Force next fetch to fail",
+    "forceErrorHint": "Useful to demo loading / error / retry."
+  },
+  "comingSoon": {
+    "title": "Coming soon",
+    "message": "Premium Consultation is not available yet. Please check back later.",
+    "ok": "OK"
+  },
+  "consultation": {
+    "eyebrow": "Got more questions?",
+    "headline": "GUM Specialists are here!",
+    "subheadline": "We provide professional, impartial advice to help you find what's best for you.",
+    "back": "Back",
+    "specialistsTitle": "ES Specialists",
+    "serviceHoursTitle": "Service hours:",
+    "serviceHoursWeekday": "Monday - Friday: 9:30am - 5:30pm",
+    "serviceHoursWeekend": "Saturday, Sunday & Public Holidays: Closed",
+    "bookNow": "Book appointment",
+    "openExternally": "Open in external browser",
+    "whatsapp": "WhatsApp us",
+    "contactIntro": "For general enquiries, please feel free to reach out to us using the method below:",
+    "hotline": "Hotline",
+    "email": "Email",
+    "privacy": "Your use of our appointment service or communication via WhatsApp constitutes your agreement to our collection and use of personal data as outlined in our privacy policy.",
+    "loading": "Loading specialists…",
+    "errorHeading": "Oops!",
+    "errorTitle": "Oops! Something went wrong. Please close the app and try again.",
+    "retry": "Retry",
+    "endOfList": "You've reached the end",
+    "loadingMore": "Loading more…"
+  },
+  "whatsapp": {
+    "prefill": "Hello, I would like to learn more about MPF information."
+  }
+}
