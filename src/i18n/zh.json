@@ -1,0 +1,48 @@
+{
+  "home": {
+    "title": "進階諮詢",
+    "subtitle": "Premium Consultation 功能入口。",
+    "openConsultation": "開啟進階諮詢",
+    "featureFlag": "功能已啟用",
+    "featureFlagHint": "關閉後可示範 Coming soon 對話框。",
+    "language": "語言",
+    "listMode": "專家列表模式",
+    "listModePlain": "普通列表",
+    "listModeInfinite": "無限滾動",
+    "forceError": "下次請求強制失敗",
+    "forceErrorHint": "用於示範 loading / error / retry。"
+  },
+  "comingSoon": {
+    "title": "即將推出",
+    "message": "進階諮詢功能尚未開放，請稍後再試。",
+    "ok": "確定"
+  },
+  "consultation": {
+    "eyebrow": "有更多問題嗎？",
+    "headline": "GUM 專家為你服務！",
+    "subheadline": "我們提供專業同中立嘅意見，幫你作出最合適嘅選擇。",
+    "back": "返回",
+    "specialistsTitle": "ES 專員",
+    "serviceHoursTitle": "服務時間：",
+    "serviceHoursWeekday": "星期一至五：上午9:30 - 下午5:30",
+    "serviceHoursWeekend": "星期六、日及公眾假期：休息",
+    "bookNow": "立即預約諮詢",
+    "openExternally": "用外部瀏覽器開啟",
+    "whatsapp": "WhatsApp",
+    "contactBodyBeforePhone": "如有一般查詢，歡迎致電本公司熱線 ",
+    "contactBodyBetween": " 或電郵至 ",
+    "contactBodyAfterEmail": " 與我們聯絡。",
+    "hotline": "熱線",
+    "email": "電郵",
+    "privacy": "閣下使用本公司之預約服務或透過 WhatsApp 與本公司聯絡，即表示同意本公司根據私隱政策所載條款，收集及使用閣下之個人資料。",
+    "loading": "正在載入專員…",
+    "errorHeading": "Oops!",
+    "errorTitle": "糟糕！出錯了。請關閉應用程式並重試。",
+    "retry": "Retry",
+    "endOfList": "已到底部",
+    "loadingMore": "載入更多…"
+  },
+  "whatsapp": {
+    "prefill": "你好，我想了解更多有關強積金嘅資訊"
+  }
+}
